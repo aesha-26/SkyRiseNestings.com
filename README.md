@@ -42,10 +42,13 @@ Contributions are welcome! Enhance features, fix bugs, or improve UI/UX. Here's 
 
 ## 📝 Contributors
 This project was brought to life with the help of these amazing contributors:
- 1. *Akash Mondal(@Akash-9007)*<br>
- 2.*Aesha Roy(@aesha-26)*<br>
- 3.*Suparna Mukhopadhyay(@Suparnamukhopadhyay)*<br>
- 4.*Susmita Hazra(@susmita2003github)*<br>
+ 1. *Akash Mondal(@Akash-9007)*
+   > 
+ 2.*Aesha Roy(@aesha-26)*
+   > 
+ 3.*Suparna Mukhopadhyay(@Suparnamukhopadhyay)*
+   >
+ 4.*Susmita Hazra(@susmita2003github)*
 
 ## 📞 Contact Us
 
