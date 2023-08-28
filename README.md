@@ -57,5 +57,5 @@ Have questions or suggestions? Reach out to us at <contact@SkyRiseNestings.com>.
 
 <div align="center">
   <p>Start your journey with SkyRiseNestings today!</p>
-   <img src="images/home1.jpg" >
+   <img src="assets/images/home1.jpg" >
 </div>
