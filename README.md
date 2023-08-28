@@ -1,6 +1,6 @@
 # SkyRiseNestings.com
 <div align="center">
- <img src="images/logo1.jpg" >
+ <img src="assets/images/logo1.jpg" >
   <h1>🏡 Welcome to SkyRiseNestings!! 🏡</h1>
   <p>Your One-Stop Destination for Premier Real Estate Listings</p>
 </div>
